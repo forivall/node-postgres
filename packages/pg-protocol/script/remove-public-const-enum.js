@@ -1,5 +1,6 @@
 // This task would be better served by recast or something like that.
 // https://github.com/travellocal/babel-plugin-declare-const-enum is a good starting point for that.
+// also maybe https://github.com/microsoft/rushstack/tree/master/apps/api-extractor
 
 const fs = require('fs')
 const path = require('path')
